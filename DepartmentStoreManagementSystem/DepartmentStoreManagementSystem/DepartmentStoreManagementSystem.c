@@ -948,7 +948,7 @@ void langSelection()
     printTranslateLang(for_turkish_press);
     //get input
     gotoxy(16, 27);
-    printTranslateLang(confirm_change);
+    printTranslateLang(confirm_lang_change);
     scanf("%d", &langSelection);
 
 
