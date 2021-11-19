@@ -1,0 +1,438 @@
+\begin{theindex}
+
+  \item {\_CRT\_SECURE\_NO\_WARNINGS}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{8}
+    \subitem {translate.c}, \hyperpage{57}
+
+  \indexspace
+
+  \item {ACS}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{8}
+  \item {add}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{9}
+  \item {add\_articles}
+    \subitem {message.h}, \hyperpage{47}
+  \item {add\_goods}
+    \subitem {message.h}, \hyperpage{47}
+  \item {add\_goods2}
+    \subitem {message.h}, \hyperpage{47}
+  \item {ANS}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{8}
+  \item {APP\_LANG\_EN}
+    \subitem {translate.h}, \hyperpage{64}
+  \item {APP\_LANG\_TR}
+    \subitem {translate.h}, \hyperpage{64}
+  \item {app\_language}
+    \subitem {translate.c}, \hyperpage{62}
+    \subitem {translate.h}, \hyperpage{67}
+
+  \indexspace
+
+  \item {back\_to\_main\_menu}
+    \subitem {message.h}, \hyperpage{47}
+  \item {back\_to\_main\_menu2}
+    \subitem {message.h}, \hyperpage{47}
+  \item {bill}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{11}
+  \item {by\_code}
+    \subitem {message.h}, \hyperpage{47}
+  \item {by\_code2}
+    \subitem {message.h}, \hyperpage{47}
+  \item {by\_quantity}
+    \subitem {message.h}, \hyperpage{47}
+  \item {by\_quantity2}
+    \subitem {message.h}, \hyperpage{48}
+  \item {by\_rate}
+    \subitem {message.h}, \hyperpage{48}
+  \item {by\_rate2}
+    \subitem {message.h}, \hyperpage{48}
+
+  \indexspace
+
+  \item {C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem.c}, 
+		\hyperpage{7}
+  \item {C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/message.h}, 
+		\hyperpage{45}
+  \item {C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/translate.c}, 
+		\hyperpage{56}
+  \item {C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/translate.h}, 
+		\hyperpage{62}
+  \item {c\_code}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{13}
+  \item {calculate\_bill}
+    \subitem {message.h}, \hyperpage{48}
+  \item {calculate\_bill2}
+    \subitem {message.h}, \hyperpage{48}
+  \item {cexit}
+    \subitem {message.h}, \hyperpage{48}
+  \item {cexit2}
+    \subitem {message.h}, \hyperpage{48}
+  \item {change\_language}
+    \subitem {message.h}, \hyperpage{48}
+  \item {change\_language2}
+    \subitem {message.h}, \hyperpage{49}
+  \item {change\_language3}
+    \subitem {message.h}, \hyperpage{49}
+  \item {check}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{14}
+  \item {code}
+    \subitem {rec}, \hyperpage{5}
+  \item {code\_already\_exists}
+    \subitem {message.h}, \hyperpage{49}
+  \item {code\_s}
+    \subitem {message.h}, \hyperpage{49}
+  \item {confirm\_lang\_change}
+    \subitem {message.h}, \hyperpage{49}
+  \item {coord}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{44}
+  \item {curser}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{15}
+  \item {customers\_bill}
+    \subitem {message.h}, \hyperpage{49}
+
+  \indexspace
+
+  \item {d\_all}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{17}
+  \item {d\_code}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{19}
+  \item {d\_mainmenu}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{21}
+  \item {d\_quan}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{23}
+  \item {d\_rate}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{25}
+  \item {d\_search}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{27}
+  \item {dbill}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{29}
+  \item {del}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{30}
+  \item {delete\_articles}
+    \subitem {message.h}, \hyperpage{49}
+  \item {delete\_goods}
+    \subitem {message.h}, \hyperpage{49}
+  \item {delete\_goods2}
+    \subitem {message.h}, \hyperpage{50}
+  \item {departmental\_store}
+    \subitem {message.h}, \hyperpage{50}
+  \item {DepartmentStoreManagementSystem.c}
+    \subitem {\_CRT\_SECURE\_NO\_WARNINGS}, \hyperpage{8}
+    \subitem {ACS}, \hyperpage{8}
+    \subitem {add}, \hyperpage{9}
+    \subitem {ANS}, \hyperpage{8}
+    \subitem {bill}, \hyperpage{11}
+    \subitem {c\_code}, \hyperpage{13}
+    \subitem {check}, \hyperpage{14}
+    \subitem {coord}, \hyperpage{44}
+    \subitem {curser}, \hyperpage{15}
+    \subitem {d\_all}, \hyperpage{17}
+    \subitem {d\_code}, \hyperpage{19}
+    \subitem {d\_mainmenu}, \hyperpage{21}
+    \subitem {d\_quan}, \hyperpage{23}
+    \subitem {d\_rate}, \hyperpage{25}
+    \subitem {d\_search}, \hyperpage{27}
+    \subitem {dbill}, \hyperpage{29}
+    \subitem {del}, \hyperpage{30}
+    \subitem {dis\_con}, \hyperpage{32}
+    \subitem {display}, \hyperpage{33}
+    \subitem {edit}, \hyperpage{34}
+    \subitem {exit}, \hyperpage{36}
+    \subitem {gotoxy}, \hyperpage{37}
+    \subitem {highlight}, \hyperpage{38}
+    \subitem {item}, \hyperpage{44}
+    \subitem {langSelection}, \hyperpage{39}
+    \subitem {main}, \hyperpage{41}
+    \subitem {window}, \hyperpage{43}
+  \item {dis\_con}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{32}
+  \item {display}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{33}
+  \item {display\_all}
+    \subitem {message.h}, \hyperpage{50}
+  \item {display\_all2}
+    \subitem {message.h}, \hyperpage{50}
+  \item {do\_you\_want\_to\_edit\_this\_code\_yn}
+    \subitem {message.h}, \hyperpage{50}
+
+  \indexspace
+
+  \item {edit}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{34}
+  \item {edit\_goods}
+    \subitem {message.h}, \hyperpage{50}
+  \item {edit\_goods2}
+    \subitem {message.h}, \hyperpage{50}
+  \item {edit\_records}
+    \subitem {message.h}, \hyperpage{50}
+  \item {EN\_LANG\_FILE}
+    \subitem {translate.h}, \hyperpage{64}
+  \item {ENGLISH\_L}
+    \subitem {translate.h}, \hyperpage{64}
+  \item {enter\_again}
+    \subitem {message.h}, \hyperpage{51}
+  \item {enter\_end\_to\_finish\_input}
+    \subitem {message.h}, \hyperpage{51}
+  \item {enter\_item\_code}
+    \subitem {message.h}, \hyperpage{51}
+  \item {enter\_lower\_range}
+    \subitem {message.h}, \hyperpage{51}
+  \item {enter\_name\_of\_the\_item}
+    \subitem {message.h}, \hyperpage{51}
+  \item {enter\_new\_code\_of\_the\_article}
+    \subitem {message.h}, \hyperpage{51}
+  \item {enter\_new\_name}
+    \subitem {message.h}, \hyperpage{51}
+  \item {enter\_new\_quantity}
+    \subitem {message.h}, \hyperpage{51}
+  \item {enter\_new\_rate}
+    \subitem {message.h}, \hyperpage{52}
+  \item {enter\_new\_record\_yn}
+    \subitem {message.h}, \hyperpage{52}
+  \item {enter\_quantity}
+    \subitem {message.h}, \hyperpage{52}
+  \item {enter\_quantity\_of\_the\_item}
+    \subitem {message.h}, \hyperpage{52}
+  \item {enter\_rate\_of\_the\_item}
+    \subitem {message.h}, \hyperpage{52}
+  \item {enter\_upper\_range}
+    \subitem {message.h}, \hyperpage{52}
+  \item {enter\_your\_choice\_1234}
+    \subitem {message.h}, \hyperpage{52}
+  \item {exit}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{36}
+
+  \indexspace
+
+  \item {f\_edit\_quantity}
+    \subitem {message.h}, \hyperpage{52}
+  \item {fashion\_wear}
+    \subitem {message.h}, \hyperpage{53}
+  \item {fixFile}
+    \subitem {translate.c}, \hyperpage{57}
+  \item {for\_english\_press}
+    \subitem {message.h}, \hyperpage{53}
+  \item {for\_turkish\_press}
+    \subitem {message.h}, \hyperpage{53}
+
+  \indexspace
+
+  \item {getId}
+    \subitem {translate.c}, \hyperpage{57}
+  \item {getIdString}
+    \subitem {translate.c}, \hyperpage{58}
+  \item {getTranslateLang}
+    \subitem {translate.c}, \hyperpage{59}
+    \subitem {translate.h}, \hyperpage{65}
+  \item {gotoxy}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{37}
+
+  \indexspace
+
+  \item {highlight}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{38}
+
+  \indexspace
+
+  \item {item}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{44}
+  \item {item\_deleted}
+    \subitem {message.h}, \hyperpage{53}
+  \item {item\_does\_not\_exist}
+    \subitem {message.h}, \hyperpage{53}
+  \item {item\_edited}
+    \subitem {message.h}, \hyperpage{53}
+
+  \indexspace
+
+  \item {LANG\_CONF\_FILE}
+    \subitem {translate.h}, \hyperpage{64}
+  \item {langSelection}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{39}
+
+  \indexspace
+
+  \item {main}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{41}
+  \item {main\_menu}
+    \subitem {message.h}, \hyperpage{53}
+  \item {message.h}
+    \subitem {add\_articles}, \hyperpage{47}
+    \subitem {add\_goods}, \hyperpage{47}
+    \subitem {add\_goods2}, \hyperpage{47}
+    \subitem {back\_to\_main\_menu}, \hyperpage{47}
+    \subitem {back\_to\_main\_menu2}, \hyperpage{47}
+    \subitem {by\_code}, \hyperpage{47}
+    \subitem {by\_code2}, \hyperpage{47}
+    \subitem {by\_quantity}, \hyperpage{47}
+    \subitem {by\_quantity2}, \hyperpage{48}
+    \subitem {by\_rate}, \hyperpage{48}
+    \subitem {by\_rate2}, \hyperpage{48}
+    \subitem {calculate\_bill}, \hyperpage{48}
+    \subitem {calculate\_bill2}, \hyperpage{48}
+    \subitem {cexit}, \hyperpage{48}
+    \subitem {cexit2}, \hyperpage{48}
+    \subitem {change\_language}, \hyperpage{48}
+    \subitem {change\_language2}, \hyperpage{49}
+    \subitem {change\_language3}, \hyperpage{49}
+    \subitem {code\_already\_exists}, \hyperpage{49}
+    \subitem {code\_s}, \hyperpage{49}
+    \subitem {confirm\_lang\_change}, \hyperpage{49}
+    \subitem {customers\_bill}, \hyperpage{49}
+    \subitem {delete\_articles}, \hyperpage{49}
+    \subitem {delete\_goods}, \hyperpage{49}
+    \subitem {delete\_goods2}, \hyperpage{50}
+    \subitem {departmental\_store}, \hyperpage{50}
+    \subitem {display\_all}, \hyperpage{50}
+    \subitem {display\_all2}, \hyperpage{50}
+    \subitem {do\_you\_want\_to\_edit\_this\_code\_yn}, \hyperpage{50}
+    \subitem {edit\_goods}, \hyperpage{50}
+    \subitem {edit\_goods2}, \hyperpage{50}
+    \subitem {edit\_records}, \hyperpage{50}
+    \subitem {enter\_again}, \hyperpage{51}
+    \subitem {enter\_end\_to\_finish\_input}, \hyperpage{51}
+    \subitem {enter\_item\_code}, \hyperpage{51}
+    \subitem {enter\_lower\_range}, \hyperpage{51}
+    \subitem {enter\_name\_of\_the\_item}, \hyperpage{51}
+    \subitem {enter\_new\_code\_of\_the\_article}, \hyperpage{51}
+    \subitem {enter\_new\_name}, \hyperpage{51}
+    \subitem {enter\_new\_quantity}, \hyperpage{51}
+    \subitem {enter\_new\_rate}, \hyperpage{52}
+    \subitem {enter\_new\_record\_yn}, \hyperpage{52}
+    \subitem {enter\_quantity}, \hyperpage{52}
+    \subitem {enter\_quantity\_of\_the\_item}, \hyperpage{52}
+    \subitem {enter\_rate\_of\_the\_item}, \hyperpage{52}
+    \subitem {enter\_upper\_range}, \hyperpage{52}
+    \subitem {enter\_your\_choice\_1234}, \hyperpage{52}
+    \subitem {f\_edit\_quantity}, \hyperpage{52}
+    \subitem {fashion\_wear}, \hyperpage{53}
+    \subitem {for\_english\_press}, \hyperpage{53}
+    \subitem {for\_turkish\_press}, \hyperpage{53}
+    \subitem {item\_deleted}, \hyperpage{53}
+    \subitem {item\_does\_not\_exist}, \hyperpage{53}
+    \subitem {item\_edited}, \hyperpage{53}
+    \subitem {main\_menu}, \hyperpage{53}
+    \subitem {name\_s}, \hyperpage{53}
+    \subitem {no\_articles\_found}, \hyperpage{54}
+    \subitem {no\_item\_found}, \hyperpage{54}
+    \subitem {no\_items\_found}, \hyperpage{54}
+    \subitem {o\_edit\_name}, \hyperpage{54}
+    \subitem {press\_any\_key\_to\_see\_more}, \hyperpage{54}
+    \subitem {quantity\_d}, \hyperpage{54}
+    \subitem {rate\_g}, \hyperpage{54}
+    \subitem {records}, \hyperpage{54}
+    \subitem {search}, \hyperpage{55}
+    \subitem {search2}, \hyperpage{55}
+    \subitem {search\_menu}, \hyperpage{55}
+    \subitem {sn\_itemname\_itemcode\_rate\_quantity}, \hyperpage{55}
+    \subitem {sn\_itemname\_quantity\_rate\_total}, \hyperpage{55}
+    \subitem {t\_edit\_code}, \hyperpage{55}
+    \subitem {t\_edit\_rate}, \hyperpage{55}
+    \subitem {total\_amount\_nrs}, \hyperpage{55}
+    \subitem {try\_again}, \hyperpage{56}
+
+  \indexspace
+
+  \item {name}
+    \subitem {rec}, \hyperpage{5}
+  \item {name\_s}
+    \subitem {message.h}, \hyperpage{53}
+  \item {no\_articles\_found}
+    \subitem {message.h}, \hyperpage{54}
+  \item {no\_item\_found}
+    \subitem {message.h}, \hyperpage{54}
+  \item {no\_items\_found}
+    \subitem {message.h}, \hyperpage{54}
+
+  \indexspace
+
+  \item {o\_edit\_name}
+    \subitem {message.h}, \hyperpage{54}
+
+  \indexspace
+
+  \item {press\_any\_key\_to\_see\_more}
+    \subitem {message.h}, \hyperpage{54}
+  \item {printTranslateLang}
+    \subitem {translate.c}, \hyperpage{59}
+    \subitem {translate.h}, \hyperpage{65}
+
+  \indexspace
+
+  \item {quantity}
+    \subitem {rec}, \hyperpage{5}
+  \item {quantity\_d}
+    \subitem {message.h}, \hyperpage{54}
+
+  \indexspace
+
+  \item {rate}
+    \subitem {rec}, \hyperpage{6}
+  \item {rate\_g}
+    \subitem {message.h}, \hyperpage{54}
+  \item {rec}, \hyperpage{5}
+    \subitem {code}, \hyperpage{5}
+    \subitem {name}, \hyperpage{5}
+    \subitem {quantity}, \hyperpage{5}
+    \subitem {rate}, \hyperpage{6}
+  \item {records}
+    \subitem {message.h}, \hyperpage{54}
+
+  \indexspace
+
+  \item {search}
+    \subitem {message.h}, \hyperpage{55}
+  \item {search2}
+    \subitem {message.h}, \hyperpage{55}
+  \item {search\_menu}
+    \subitem {message.h}, \hyperpage{55}
+  \item {setTranslateLang}
+    \subitem {translate.c}, \hyperpage{61}
+    \subitem {translate.h}, \hyperpage{66}
+  \item {sn\_itemname\_itemcode\_rate\_quantity}
+    \subitem {message.h}, \hyperpage{55}
+  \item {sn\_itemname\_quantity\_rate\_total}
+    \subitem {message.h}, \hyperpage{55}
+
+  \indexspace
+
+  \item {t\_edit\_code}
+    \subitem {message.h}, \hyperpage{55}
+  \item {t\_edit\_rate}
+    \subitem {message.h}, \hyperpage{55}
+  \item {total\_amount\_nrs}
+    \subitem {message.h}, \hyperpage{55}
+  \item {TR\_LANG\_FILE}
+    \subitem {translate.h}, \hyperpage{64}
+  \item {translate.c}
+    \subitem {\_CRT\_SECURE\_NO\_WARNINGS}, \hyperpage{57}
+    \subitem {app\_language}, \hyperpage{62}
+    \subitem {fixFile}, \hyperpage{57}
+    \subitem {getId}, \hyperpage{57}
+    \subitem {getIdString}, \hyperpage{58}
+    \subitem {getTranslateLang}, \hyperpage{59}
+    \subitem {printTranslateLang}, \hyperpage{59}
+    \subitem {setTranslateLang}, \hyperpage{61}
+  \item {translate.h}
+    \subitem {APP\_LANG\_EN}, \hyperpage{64}
+    \subitem {APP\_LANG\_TR}, \hyperpage{64}
+    \subitem {app\_language}, \hyperpage{67}
+    \subitem {EN\_LANG\_FILE}, \hyperpage{64}
+    \subitem {ENGLISH\_L}, \hyperpage{64}
+    \subitem {getTranslateLang}, \hyperpage{65}
+    \subitem {LANG\_CONF\_FILE}, \hyperpage{64}
+    \subitem {printTranslateLang}, \hyperpage{65}
+    \subitem {setTranslateLang}, \hyperpage{66}
+    \subitem {TR\_LANG\_FILE}, \hyperpage{64}
+    \subitem {TURKISH\_L}, \hyperpage{64}
+  \item {try\_again}
+    \subitem {message.h}, \hyperpage{56}
+  \item {TURKISH\_L}
+    \subitem {translate.h}, \hyperpage{64}
+
+  \indexspace
+
+  \item {window}
+    \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{43}
+
+\end{theindex}

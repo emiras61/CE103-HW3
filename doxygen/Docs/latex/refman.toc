@@ -1,0 +1,148 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}Data Structure Index}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Data Structures}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}File Index}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}File List}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Data Structure Documentation}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}rec Struct Reference}{5}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Field Documentation}{5}{subsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.1}code}{5}{subsubsection.3.1.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.2}name}{5}{subsubsection.3.1.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.1.3}quantity}{6}{subsubsection.3.1.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.1.4}rate}{6}{subsubsection.3.1.1.4}%
+\contentsline {chapter}{\numberline {4}File Documentation}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Emirhan/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/odev3/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}CE103-\/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}HW3/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Department\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Store\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Management\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}System/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Department\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Store\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Management\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}System/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Department\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Store\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Management\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}System.c File Reference}{7}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Macro Definition Documentation}{8}{subsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.1}\_CRT\_SECURE\_NO\_WARNINGS}{8}{subsubsection.4.1.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.2}ACS}{8}{subsubsection.4.1.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.1.3}ANS}{9}{subsubsection.4.1.1.3}%
+\contentsline {subsection}{\numberline {4.1.2}Function Documentation}{9}{subsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.2.1}add()}{9}{subsubsection.4.1.2.1}%
+\contentsline {subsubsection}{\numberline {4.1.2.2}bill()}{11}{subsubsection.4.1.2.2}%
+\contentsline {subsubsection}{\numberline {4.1.2.3}c\_code()}{13}{subsubsection.4.1.2.3}%
+\contentsline {subsubsection}{\numberline {4.1.2.4}check()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{14}{subsubsection.4.1.2.4}%
+\contentsline {subsubsection}{\numberline {4.1.2.5}check()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{14}{subsubsection.4.1.2.5}%
+\contentsline {subsubsection}{\numberline {4.1.2.6}curser()}{15}{subsubsection.4.1.2.6}%
+\contentsline {subsubsection}{\numberline {4.1.2.7}d\_all()}{17}{subsubsection.4.1.2.7}%
+\contentsline {subsubsection}{\numberline {4.1.2.8}d\_code()}{19}{subsubsection.4.1.2.8}%
+\contentsline {subsubsection}{\numberline {4.1.2.9}d\_mainmenu()}{21}{subsubsection.4.1.2.9}%
+\contentsline {subsubsection}{\numberline {4.1.2.10}d\_quan()}{23}{subsubsection.4.1.2.10}%
+\contentsline {subsubsection}{\numberline {4.1.2.11}d\_rate()}{25}{subsubsection.4.1.2.11}%
+\contentsline {subsubsection}{\numberline {4.1.2.12}d\_search()}{27}{subsubsection.4.1.2.12}%
+\contentsline {subsubsection}{\numberline {4.1.2.13}dbill()}{29}{subsubsection.4.1.2.13}%
+\contentsline {subsubsection}{\numberline {4.1.2.14}del()}{30}{subsubsection.4.1.2.14}%
+\contentsline {subsubsection}{\numberline {4.1.2.15}dis\_con()}{32}{subsubsection.4.1.2.15}%
+\contentsline {subsubsection}{\numberline {4.1.2.16}display()}{33}{subsubsection.4.1.2.16}%
+\contentsline {subsubsection}{\numberline {4.1.2.17}edit()}{34}{subsubsection.4.1.2.17}%
+\contentsline {subsubsection}{\numberline {4.1.2.18}exit()}{36}{subsubsection.4.1.2.18}%
+\contentsline {subsubsection}{\numberline {4.1.2.19}gotoxy()}{37}{subsubsection.4.1.2.19}%
+\contentsline {subsubsection}{\numberline {4.1.2.20}highlight()}{38}{subsubsection.4.1.2.20}%
+\contentsline {subsubsection}{\numberline {4.1.2.21}langSelection()}{39}{subsubsection.4.1.2.21}%
+\contentsline {subsubsection}{\numberline {4.1.2.22}main()}{41}{subsubsection.4.1.2.22}%
+\contentsline {subsubsection}{\numberline {4.1.2.23}window()}{43}{subsubsection.4.1.2.23}%
+\contentsline {subsection}{\numberline {4.1.3}Variable Documentation}{44}{subsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.3.1}coord}{44}{subsubsection.4.1.3.1}%
+\contentsline {subsubsection}{\numberline {4.1.3.2}item}{45}{subsubsection.4.1.3.2}%
+\contentsline {section}{\numberline {4.2}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Emirhan/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/odev3/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}CE103-\/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}HW3/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Department\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Store\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Management\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}System/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Department\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Store\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Management\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}System/message.h File Reference}{45}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Macro Definition Documentation}{47}{subsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.1}add\_articles}{47}{subsubsection.4.2.1.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.2}add\_goods}{47}{subsubsection.4.2.1.2}%
+\contentsline {subsubsection}{\numberline {4.2.1.3}add\_goods2}{47}{subsubsection.4.2.1.3}%
+\contentsline {subsubsection}{\numberline {4.2.1.4}back\_to\_main\_menu}{47}{subsubsection.4.2.1.4}%
+\contentsline {subsubsection}{\numberline {4.2.1.5}back\_to\_main\_menu2}{47}{subsubsection.4.2.1.5}%
+\contentsline {subsubsection}{\numberline {4.2.1.6}by\_code}{47}{subsubsection.4.2.1.6}%
+\contentsline {subsubsection}{\numberline {4.2.1.7}by\_code2}{47}{subsubsection.4.2.1.7}%
+\contentsline {subsubsection}{\numberline {4.2.1.8}by\_quantity}{48}{subsubsection.4.2.1.8}%
+\contentsline {subsubsection}{\numberline {4.2.1.9}by\_quantity2}{48}{subsubsection.4.2.1.9}%
+\contentsline {subsubsection}{\numberline {4.2.1.10}by\_rate}{48}{subsubsection.4.2.1.10}%
+\contentsline {subsubsection}{\numberline {4.2.1.11}by\_rate2}{48}{subsubsection.4.2.1.11}%
+\contentsline {subsubsection}{\numberline {4.2.1.12}calculate\_bill}{48}{subsubsection.4.2.1.12}%
+\contentsline {subsubsection}{\numberline {4.2.1.13}calculate\_bill2}{48}{subsubsection.4.2.1.13}%
+\contentsline {subsubsection}{\numberline {4.2.1.14}cexit}{48}{subsubsection.4.2.1.14}%
+\contentsline {subsubsection}{\numberline {4.2.1.15}cexit2}{48}{subsubsection.4.2.1.15}%
+\contentsline {subsubsection}{\numberline {4.2.1.16}change\_language}{49}{subsubsection.4.2.1.16}%
+\contentsline {subsubsection}{\numberline {4.2.1.17}change\_language2}{49}{subsubsection.4.2.1.17}%
+\contentsline {subsubsection}{\numberline {4.2.1.18}change\_language3}{49}{subsubsection.4.2.1.18}%
+\contentsline {subsubsection}{\numberline {4.2.1.19}code\_already\_exists}{49}{subsubsection.4.2.1.19}%
+\contentsline {subsubsection}{\numberline {4.2.1.20}code\_s}{49}{subsubsection.4.2.1.20}%
+\contentsline {subsubsection}{\numberline {4.2.1.21}confirm\_lang\_change}{49}{subsubsection.4.2.1.21}%
+\contentsline {subsubsection}{\numberline {4.2.1.22}customers\_bill}{49}{subsubsection.4.2.1.22}%
+\contentsline {subsubsection}{\numberline {4.2.1.23}delete\_articles}{49}{subsubsection.4.2.1.23}%
+\contentsline {subsubsection}{\numberline {4.2.1.24}delete\_goods}{50}{subsubsection.4.2.1.24}%
+\contentsline {subsubsection}{\numberline {4.2.1.25}delete\_goods2}{50}{subsubsection.4.2.1.25}%
+\contentsline {subsubsection}{\numberline {4.2.1.26}departmental\_store}{50}{subsubsection.4.2.1.26}%
+\contentsline {subsubsection}{\numberline {4.2.1.27}display\_all}{50}{subsubsection.4.2.1.27}%
+\contentsline {subsubsection}{\numberline {4.2.1.28}display\_all2}{50}{subsubsection.4.2.1.28}%
+\contentsline {subsubsection}{\numberline {4.2.1.29}do\_you\_want\_to\_edit\_this\_code\_yn}{50}{subsubsection.4.2.1.29}%
+\contentsline {subsubsection}{\numberline {4.2.1.30}edit\_goods}{50}{subsubsection.4.2.1.30}%
+\contentsline {subsubsection}{\numberline {4.2.1.31}edit\_goods2}{50}{subsubsection.4.2.1.31}%
+\contentsline {subsubsection}{\numberline {4.2.1.32}edit\_records}{51}{subsubsection.4.2.1.32}%
+\contentsline {subsubsection}{\numberline {4.2.1.33}enter\_again}{51}{subsubsection.4.2.1.33}%
+\contentsline {subsubsection}{\numberline {4.2.1.34}enter\_end\_to\_finish\_input}{51}{subsubsection.4.2.1.34}%
+\contentsline {subsubsection}{\numberline {4.2.1.35}enter\_item\_code}{51}{subsubsection.4.2.1.35}%
+\contentsline {subsubsection}{\numberline {4.2.1.36}enter\_lower\_range}{51}{subsubsection.4.2.1.36}%
+\contentsline {subsubsection}{\numberline {4.2.1.37}enter\_name\_of\_the\_item}{51}{subsubsection.4.2.1.37}%
+\contentsline {subsubsection}{\numberline {4.2.1.38}enter\_new\_code\_of\_the\_article}{51}{subsubsection.4.2.1.38}%
+\contentsline {subsubsection}{\numberline {4.2.1.39}enter\_new\_name}{51}{subsubsection.4.2.1.39}%
+\contentsline {subsubsection}{\numberline {4.2.1.40}enter\_new\_quantity}{52}{subsubsection.4.2.1.40}%
+\contentsline {subsubsection}{\numberline {4.2.1.41}enter\_new\_rate}{52}{subsubsection.4.2.1.41}%
+\contentsline {subsubsection}{\numberline {4.2.1.42}enter\_new\_record\_yn}{52}{subsubsection.4.2.1.42}%
+\contentsline {subsubsection}{\numberline {4.2.1.43}enter\_quantity}{52}{subsubsection.4.2.1.43}%
+\contentsline {subsubsection}{\numberline {4.2.1.44}enter\_quantity\_of\_the\_item}{52}{subsubsection.4.2.1.44}%
+\contentsline {subsubsection}{\numberline {4.2.1.45}enter\_rate\_of\_the\_item}{52}{subsubsection.4.2.1.45}%
+\contentsline {subsubsection}{\numberline {4.2.1.46}enter\_upper\_range}{52}{subsubsection.4.2.1.46}%
+\contentsline {subsubsection}{\numberline {4.2.1.47}enter\_your\_choice\_1234}{52}{subsubsection.4.2.1.47}%
+\contentsline {subsubsection}{\numberline {4.2.1.48}f\_edit\_quantity}{53}{subsubsection.4.2.1.48}%
+\contentsline {subsubsection}{\numberline {4.2.1.49}fashion\_wear}{53}{subsubsection.4.2.1.49}%
+\contentsline {subsubsection}{\numberline {4.2.1.50}for\_english\_press}{53}{subsubsection.4.2.1.50}%
+\contentsline {subsubsection}{\numberline {4.2.1.51}for\_turkish\_press}{53}{subsubsection.4.2.1.51}%
+\contentsline {subsubsection}{\numberline {4.2.1.52}item\_deleted}{53}{subsubsection.4.2.1.52}%
+\contentsline {subsubsection}{\numberline {4.2.1.53}item\_does\_not\_exist}{53}{subsubsection.4.2.1.53}%
+\contentsline {subsubsection}{\numberline {4.2.1.54}item\_edited}{53}{subsubsection.4.2.1.54}%
+\contentsline {subsubsection}{\numberline {4.2.1.55}main\_menu}{53}{subsubsection.4.2.1.55}%
+\contentsline {subsubsection}{\numberline {4.2.1.56}name\_s}{54}{subsubsection.4.2.1.56}%
+\contentsline {subsubsection}{\numberline {4.2.1.57}no\_articles\_found}{54}{subsubsection.4.2.1.57}%
+\contentsline {subsubsection}{\numberline {4.2.1.58}no\_item\_found}{54}{subsubsection.4.2.1.58}%
+\contentsline {subsubsection}{\numberline {4.2.1.59}no\_items\_found}{54}{subsubsection.4.2.1.59}%
+\contentsline {subsubsection}{\numberline {4.2.1.60}o\_edit\_name}{54}{subsubsection.4.2.1.60}%
+\contentsline {subsubsection}{\numberline {4.2.1.61}press\_any\_key\_to\_see\_more}{54}{subsubsection.4.2.1.61}%
+\contentsline {subsubsection}{\numberline {4.2.1.62}quantity\_d}{54}{subsubsection.4.2.1.62}%
+\contentsline {subsubsection}{\numberline {4.2.1.63}rate\_g}{54}{subsubsection.4.2.1.63}%
+\contentsline {subsubsection}{\numberline {4.2.1.64}records}{55}{subsubsection.4.2.1.64}%
+\contentsline {subsubsection}{\numberline {4.2.1.65}search}{55}{subsubsection.4.2.1.65}%
+\contentsline {subsubsection}{\numberline {4.2.1.66}search2}{55}{subsubsection.4.2.1.66}%
+\contentsline {subsubsection}{\numberline {4.2.1.67}search\_menu}{55}{subsubsection.4.2.1.67}%
+\contentsline {subsubsection}{\numberline {4.2.1.68}sn\_itemname\_itemcode\_rate\_quantity}{55}{subsubsection.4.2.1.68}%
+\contentsline {subsubsection}{\numberline {4.2.1.69}sn\_itemname\_quantity\_rate\_total}{55}{subsubsection.4.2.1.69}%
+\contentsline {subsubsection}{\numberline {4.2.1.70}t\_edit\_code}{55}{subsubsection.4.2.1.70}%
+\contentsline {subsubsection}{\numberline {4.2.1.71}t\_edit\_rate}{55}{subsubsection.4.2.1.71}%
+\contentsline {subsubsection}{\numberline {4.2.1.72}total\_amount\_nrs}{56}{subsubsection.4.2.1.72}%
+\contentsline {subsubsection}{\numberline {4.2.1.73}try\_again}{56}{subsubsection.4.2.1.73}%
+\contentsline {section}{\numberline {4.3}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Emirhan/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/odev3/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}CE103-\/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}HW3/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Department\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Store\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Management\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}System/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Department\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Store\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Management\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}System/translate.c File Reference}{56}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Macro Definition Documentation}{57}{subsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.1.1}\_CRT\_SECURE\_NO\_WARNINGS}{57}{subsubsection.4.3.1.1}%
+\contentsline {subsection}{\numberline {4.3.2}Function Documentation}{57}{subsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.2.1}fixFile()}{57}{subsubsection.4.3.2.1}%
+\contentsline {subsubsection}{\numberline {4.3.2.2}getId()}{58}{subsubsection.4.3.2.2}%
+\contentsline {subsubsection}{\numberline {4.3.2.3}getIdString()}{58}{subsubsection.4.3.2.3}%
+\contentsline {subsubsection}{\numberline {4.3.2.4}getTranslateLang()}{59}{subsubsection.4.3.2.4}%
+\contentsline {subsubsection}{\numberline {4.3.2.5}printTranslateLang()}{60}{subsubsection.4.3.2.5}%
+\contentsline {subsubsection}{\numberline {4.3.2.6}setTranslateLang()}{61}{subsubsection.4.3.2.6}%
+\contentsline {subsection}{\numberline {4.3.3}Variable Documentation}{62}{subsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.3.1}app\_language}{62}{subsubsection.4.3.3.1}%
+\contentsline {section}{\numberline {4.4}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Emirhan/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Desktop/odev3/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}CE103-\/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}HW3/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Department\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Store\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Management\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}System/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Department\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Store\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Management\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}System/translate.h File Reference}{62}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Macro Definition Documentation}{64}{subsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.1.1}APP\_LANG\_EN}{64}{subsubsection.4.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.4.1.2}APP\_LANG\_TR}{64}{subsubsection.4.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.4.1.3}EN\_LANG\_FILE}{64}{subsubsection.4.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.4.1.4}ENGLISH\_L}{64}{subsubsection.4.4.1.4}%
+\contentsline {subsubsection}{\numberline {4.4.1.5}LANG\_CONF\_FILE}{64}{subsubsection.4.4.1.5}%
+\contentsline {subsubsection}{\numberline {4.4.1.6}TR\_LANG\_FILE}{64}{subsubsection.4.4.1.6}%
+\contentsline {subsubsection}{\numberline {4.4.1.7}TURKISH\_L}{64}{subsubsection.4.4.1.7}%
+\contentsline {subsection}{\numberline {4.4.2}Function Documentation}{65}{subsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.2.1}getTranslateLang()}{65}{subsubsection.4.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.4.2.2}printTranslateLang()}{65}{subsubsection.4.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.4.2.3}setTranslateLang()}{66}{subsubsection.4.4.2.3}%
+\contentsline {subsection}{\numberline {4.4.3}Variable Documentation}{67}{subsection.4.4.3}%
+\contentsline {subsubsection}{\numberline {4.4.3.1}app\_language}{67}{subsubsection.4.4.3.1}%
+\contentsline {chapter}{Index}{69}{section*.70}%
