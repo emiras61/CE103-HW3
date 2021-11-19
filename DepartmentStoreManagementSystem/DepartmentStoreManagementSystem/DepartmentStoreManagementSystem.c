@@ -936,7 +936,7 @@ void langSelection()
     int  langSelection = 0;
 
     //get current language setting from lang.conf file its "en" or "tr"
-    getTranslateLang(langConfig);
+    //getTranslateLang(langConfig);
 
     //set application language setting but setting is not set to file
     setTranslateLang(langConfig, false);
