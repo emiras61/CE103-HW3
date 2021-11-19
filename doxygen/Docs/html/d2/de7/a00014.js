@@ -4,7 +4,6 @@ var a00014 =
     [ "_CRT_SECURE_NO_WARNINGS", "d2/de7/a00014.html#af08ec37a8c99d747fb60fa15bc28678b", null ],
     [ "ACS", "d2/de7/a00014.html#af0100b52c29a76c6e77607b12f47d71f", null ],
     [ "ANS", "d2/de7/a00014.html#ad75bf1918236cda8e324c706d3b8801d", null ],
-    [ "for_turkish_press", "d2/de7/a00014.html#aa3f4f69860766e1c708abb3112720efb", null ],
     [ "add", "d2/de7/a00014.html#a72f10c9e9a40d72ecf1205c43153b9ca", null ],
     [ "bill", "d2/de7/a00014.html#adf0f03a768c327f84e6c1749ea46d448", null ],
     [ "c_code", "d2/de7/a00014.html#ad9ae47bac8ef81e7dfdf3052fcd77c1a", null ],

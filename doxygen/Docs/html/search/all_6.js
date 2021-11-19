@@ -4,5 +4,5 @@ var searchData=
   ['fashion_5fwear_1',['fashion_wear',['../d4/d51/a00017.html#afe076aa462961c55340d6386b9d6f7b1',1,'message.h']]],
   ['fixfile_2',['fixFile',['../db/db2/a00020.html#a1bd34356be85e028ce33d6cbdb598d81',1,'translate.c']]],
   ['for_5fenglish_5fpress_3',['for_english_press',['../d4/d51/a00017.html#a0a54c3b2be08a47cb18afa064d58b82d',1,'message.h']]],
-  ['for_5fturkish_5fpress_4',['for_turkish_press',['../d2/de7/a00014.html#aa3f4f69860766e1c708abb3112720efb',1,'message.h']]]
+  ['for_5fturkish_5fpress_4',['for_turkish_press',['../d4/d51/a00017.html#aa3f4f69860766e1c708abb3112720efb',1,'message.h']]]
 ];
