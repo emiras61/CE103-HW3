@@ -71,6 +71,7 @@
 #define change_language2 68
 #define cexit2 69
 #define change_language3 70
-#define choice_lang 71
+#define confirm_c 71
 #define for_english_press 72
 #define for_turkish_press 73
+#define confirm_change 74
