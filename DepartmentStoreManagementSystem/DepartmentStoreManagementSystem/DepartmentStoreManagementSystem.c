@@ -936,10 +936,10 @@ void langSelection()
     int  langSelection = 0;
 
     //get current language setting from lang.conf file its "en" or "tr"
-    //getTranslateLang(langConfig);
+    getTranslateLang(langConfig);
 
     //set application language setting but setting is not set to file
-    setTranslateLang(langConfig, false);
+    //setTranslateLang(langConfig, false);
 
     //ask for language
     gotoxy(16, 22);
@@ -961,16 +961,6 @@ void langSelection()
         //other cases set language to English 
         setTranslateLang(ENGLISH_L, true);
     }
-    //setTranslateLang("tr",true);
-
-    //getTranslateLang(langConfig);
-    //printTranslateLang(current_lang_setting);
-    //printf(":[%s]\n",langConfig);
-
-    //printTranslateLang(welcome_to_my_program);
-    //printf("\n");
-    //printTranslateLang(lets_translate_messages);
-    //printf("\n");
 
     return main();
 } 

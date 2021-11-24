@@ -9,7 +9,7 @@
 #include "translate.h"
 
 /*This will keep our global selected langauge information*/
-int app_language = APP_LANG_EN;
+int app_language = APP_LANG_TR;
 
 //This function gets ID of message from line
 int getId(char* line);
