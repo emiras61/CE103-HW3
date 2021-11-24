@@ -7,7 +7,7 @@
 \indexentry{quantity@{quantity}!rec@{rec}|hyperpage}{5}
 \indexentry{rec@{rec}!rate@{rate}|hyperpage}{6}
 \indexentry{rate@{rate}!rec@{rec}|hyperpage}{6}
-\indexentry{C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem.c@{C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem.c}|hyperpage}{7}
+\indexentry{C:/Users/Emirhan/Desktop/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem.c@{C:/Users/Emirhan/Desktop/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem.c}|hyperpage}{7}
 \indexentry{DepartmentStoreManagementSystem.c@{DepartmentStoreManagementSystem.c}!\_CRT\_SECURE\_NO\_WARNINGS@{\_CRT\_SECURE\_NO\_WARNINGS}|hyperpage}{8}
 \indexentry{\_CRT\_SECURE\_NO\_WARNINGS@{\_CRT\_SECURE\_NO\_WARNINGS}!DepartmentStoreManagementSystem.c@{DepartmentStoreManagementSystem.c}|hyperpage}{8}
 \indexentry{DepartmentStoreManagementSystem.c@{DepartmentStoreManagementSystem.c}!ACS@{ACS}|hyperpage}{8}
@@ -64,7 +64,7 @@
 \indexentry{coord@{coord}!DepartmentStoreManagementSystem.c@{DepartmentStoreManagementSystem.c}|hyperpage}{44}
 \indexentry{DepartmentStoreManagementSystem.c@{DepartmentStoreManagementSystem.c}!item@{item}|hyperpage}{44}
 \indexentry{item@{item}!DepartmentStoreManagementSystem.c@{DepartmentStoreManagementSystem.c}|hyperpage}{44}
-\indexentry{C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/message.h@{C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/message.h}|hyperpage}{45}
+\indexentry{C:/Users/Emirhan/Desktop/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/message.h@{C:/Users/Emirhan/Desktop/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/message.h}|hyperpage}{45}
 \indexentry{message.h@{message.h}!add\_articles@{add\_articles}|hyperpage}{47}
 \indexentry{add\_articles@{add\_articles}!message.h@{message.h}|hyperpage}{47}
 \indexentry{message.h@{message.h}!add\_goods@{add\_goods}|hyperpage}{47}
@@ -211,7 +211,7 @@
 \indexentry{total\_amount\_nrs@{total\_amount\_nrs}!message.h@{message.h}|hyperpage}{55}
 \indexentry{message.h@{message.h}!try\_again@{try\_again}|hyperpage}{56}
 \indexentry{try\_again@{try\_again}!message.h@{message.h}|hyperpage}{56}
-\indexentry{C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/translate.c@{C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/translate.c}|hyperpage}{56}
+\indexentry{C:/Users/Emirhan/Desktop/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/translate.c@{C:/Users/Emirhan/Desktop/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/translate.c}|hyperpage}{56}
 \indexentry{translate.c@{translate.c}!\_CRT\_SECURE\_NO\_WARNINGS@{\_CRT\_SECURE\_NO\_WARNINGS}|hyperpage}{57}
 \indexentry{\_CRT\_SECURE\_NO\_WARNINGS@{\_CRT\_SECURE\_NO\_WARNINGS}!translate.c@{translate.c}|hyperpage}{57}
 \indexentry{translate.c@{translate.c}!fixFile@{fixFile}|hyperpage}{57}
@@ -222,13 +222,13 @@
 \indexentry{getIdString@{getIdString}!translate.c@{translate.c}|hyperpage}{58}
 \indexentry{translate.c@{translate.c}!getTranslateLang@{getTranslateLang}|hyperpage}{59}
 \indexentry{getTranslateLang@{getTranslateLang}!translate.c@{translate.c}|hyperpage}{59}
-\indexentry{translate.c@{translate.c}!printTranslateLang@{printTranslateLang}|hyperpage}{59}
-\indexentry{printTranslateLang@{printTranslateLang}!translate.c@{translate.c}|hyperpage}{59}
+\indexentry{translate.c@{translate.c}!printTranslateLang@{printTranslateLang}|hyperpage}{60}
+\indexentry{printTranslateLang@{printTranslateLang}!translate.c@{translate.c}|hyperpage}{60}
 \indexentry{translate.c@{translate.c}!setTranslateLang@{setTranslateLang}|hyperpage}{61}
 \indexentry{setTranslateLang@{setTranslateLang}!translate.c@{translate.c}|hyperpage}{61}
 \indexentry{translate.c@{translate.c}!app\_language@{app\_language}|hyperpage}{62}
 \indexentry{app\_language@{app\_language}!translate.c@{translate.c}|hyperpage}{62}
-\indexentry{C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/translate.h@{C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/translate.h}|hyperpage}{62}
+\indexentry{C:/Users/Emirhan/Desktop/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/translate.h@{C:/Users/Emirhan/Desktop/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/translate.h}|hyperpage}{62}
 \indexentry{translate.h@{translate.h}!APP\_LANG\_EN@{APP\_LANG\_EN}|hyperpage}{64}
 \indexentry{APP\_LANG\_EN@{APP\_LANG\_EN}!translate.h@{translate.h}|hyperpage}{64}
 \indexentry{translate.h@{translate.h}!APP\_LANG\_TR@{APP\_LANG\_TR}|hyperpage}{64}
@@ -247,7 +247,7 @@
 \indexentry{getTranslateLang@{getTranslateLang}!translate.h@{translate.h}|hyperpage}{65}
 \indexentry{translate.h@{translate.h}!printTranslateLang@{printTranslateLang}|hyperpage}{65}
 \indexentry{printTranslateLang@{printTranslateLang}!translate.h@{translate.h}|hyperpage}{65}
-\indexentry{translate.h@{translate.h}!setTranslateLang@{setTranslateLang}|hyperpage}{66}
-\indexentry{setTranslateLang@{setTranslateLang}!translate.h@{translate.h}|hyperpage}{66}
-\indexentry{translate.h@{translate.h}!app\_language@{app\_language}|hyperpage}{67}
-\indexentry{app\_language@{app\_language}!translate.h@{translate.h}|hyperpage}{67}
+\indexentry{translate.h@{translate.h}!setTranslateLang@{setTranslateLang}|hyperpage}{67}
+\indexentry{setTranslateLang@{setTranslateLang}!translate.h@{translate.h}|hyperpage}{67}
+\indexentry{translate.h@{translate.h}!app\_language@{app\_language}|hyperpage}{68}
+\indexentry{app\_language@{app\_language}!translate.h@{translate.h}|hyperpage}{68}

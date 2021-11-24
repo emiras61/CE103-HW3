@@ -24,7 +24,7 @@
     \subitem {translate.h}, \hyperpage{64}
   \item {app\_language}
     \subitem {translate.c}, \hyperpage{62}
-    \subitem {translate.h}, \hyperpage{67}
+    \subitem {translate.h}, \hyperpage{68}
 
   \indexspace
 
@@ -49,13 +49,13 @@
 
   \indexspace
 
-  \item {C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem.c}, 
+  \item {C:/Users/Emirhan/Desktop/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem.c}, 
 		\hyperpage{7}
-  \item {C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/message.h}, 
+  \item {C:/Users/Emirhan/Desktop/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/message.h}, 
 		\hyperpage{45}
-  \item {C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/translate.c}, 
+  \item {C:/Users/Emirhan/Desktop/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/translate.c}, 
 		\hyperpage{56}
-  \item {C:/Users/Emirhan/Desktop/odev3/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/translate.h}, 
+  \item {C:/Users/Emirhan/Desktop/CE103-\/HW3/DepartmentStoreManagementSystem/DepartmentStoreManagementSystem/translate.h}, 
 		\hyperpage{62}
   \item {c\_code}
     \subitem {DepartmentStoreManagementSystem.c}, \hyperpage{13}
@@ -354,7 +354,7 @@
   \item {press\_any\_key\_to\_see\_more}
     \subitem {message.h}, \hyperpage{54}
   \item {printTranslateLang}
-    \subitem {translate.c}, \hyperpage{59}
+    \subitem {translate.c}, \hyperpage{60}
     \subitem {translate.h}, \hyperpage{65}
 
   \indexspace
@@ -388,7 +388,7 @@
     \subitem {message.h}, \hyperpage{55}
   \item {setTranslateLang}
     \subitem {translate.c}, \hyperpage{61}
-    \subitem {translate.h}, \hyperpage{66}
+    \subitem {translate.h}, \hyperpage{67}
   \item {sn\_itemname\_itemcode\_rate\_quantity}
     \subitem {message.h}, \hyperpage{55}
   \item {sn\_itemname\_quantity\_rate\_total}
@@ -411,18 +411,18 @@
     \subitem {getId}, \hyperpage{57}
     \subitem {getIdString}, \hyperpage{58}
     \subitem {getTranslateLang}, \hyperpage{59}
-    \subitem {printTranslateLang}, \hyperpage{59}
+    \subitem {printTranslateLang}, \hyperpage{60}
     \subitem {setTranslateLang}, \hyperpage{61}
   \item {translate.h}
     \subitem {APP\_LANG\_EN}, \hyperpage{64}
     \subitem {APP\_LANG\_TR}, \hyperpage{64}
-    \subitem {app\_language}, \hyperpage{67}
+    \subitem {app\_language}, \hyperpage{68}
     \subitem {EN\_LANG\_FILE}, \hyperpage{64}
     \subitem {ENGLISH\_L}, \hyperpage{64}
     \subitem {getTranslateLang}, \hyperpage{65}
     \subitem {LANG\_CONF\_FILE}, \hyperpage{64}
     \subitem {printTranslateLang}, \hyperpage{65}
-    \subitem {setTranslateLang}, \hyperpage{66}
+    \subitem {setTranslateLang}, \hyperpage{67}
     \subitem {TR\_LANG\_FILE}, \hyperpage{64}
     \subitem {TURKISH\_L}, \hyperpage{64}
   \item {try\_again}
